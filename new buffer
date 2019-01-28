@@ -1,0 +1,9 @@
+# Name: Dhiraj Ghode
+#Div : P   Batch : P1
+'''write a python programme to convert height of a person from feets and inches to cm'''
+x=int(input('feet')
+y=int(input('inches')
+h=(x*12+y)
+z=2.5*h
+print(z)
+
